@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Activities.
 [//]: # ([![]&#40;profile-summary-card-output/dracula/0-profile-details.svg&#41;]&#40;https://github.com/jumpe1&#41;)
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jumpe1&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jumpe1)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![](profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/jumpe1)
 [![](profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/jumpe1)
 [![](profile-summary-card-output/dracula/3-stats.svg)](https://github.com/jumpe1)
