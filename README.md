@@ -26,12 +26,20 @@ Here are some ideas to get you started:
 
 ## Technical Stack
 [![](https://img.shields.io/badge/-Go-000?style=flat&logo=go)](https://github.com/jumpe1)
+[![](https://img.shields.io/badge/-Python-000?style=flat&logo=python)](https://github.com/jumpe1)
+[![](https://img.shields.io/badge/-PHP-000?style=flat&logo=php)](https://github.com/jumpe1)
+[![](https://img.shields.io/badge/-Django-000?style=flat&logo=django)](https://github.com/jumpe1)
+[![](https://img.shields.io/badge/-AWS-000?style=flat&logo=amazon-aws)](https://github.com/jumpe1)
 [![](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)](https://github.com/jumpe1)
+[![](https://img.shields.io/badge/-Kubernetes-000?style=flat&logo=kubernetes)](https://github.com/jumpe1)
 [![](https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql)](https://github.com/jumpe1)
+[![](https://img.shields.io/badge/-Redis-000?style=flat&logo=redis)](https://github.com/jumpe1)
 [![](https://img.shields.io/badge/-AWS-000?style=flat&logo=amazon-aws)](https://github.com/jumpe1)
 [![](https://img.shields.io/badge/-Terraform-000?style=flat&logo=terraform)](https://github.com/jumpe1)
 [![](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)](https://github.com/jumpe1)
 [![](https://img.shields.io/badge/-GitHub_Actions-000?style=flat&logo=github-actions)](https://github.com/jumpe1)
+[![](https://img.shields.io/badge/-slack-000?style=flat&logo=slack)](https://github.com/jumpe1)
+[![](https://img.shields.io/badge/-Firebase-000?style=flat&logo=firebase)](https://github.com/jumpe1)
 
 ## References
 - https://github.com/ashutosh00710/github-readme-activity-graph
