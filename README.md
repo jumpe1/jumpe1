@@ -1,48 +1,23 @@
-### Hi there 👋
+# Hi, I'm Jumpe1 👋
 
-<!--
-**jumpe1/jumpe1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Platform Engineer / SRE based in Tokyo, Japan.  
+Focus: **Kubernetes**, **Go**, **Cloud Native Platform & Reliability**.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack & Competencies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Container & Orchestration**: Kubernetes, Istio, Argo (Workflows, CD, Rollouts, Events), Agones, Helm, Kyverno
+- **Languages**: Go, Python, Shell Script, SQL
+- **Cloud & IaC**: AWS, Google Cloud, Terraform
+- **Observability & SRE**: Datadog, PagerDuty, SLI/SLO Implementation
 
-## Activities.
-[//]: # ([![]&#40;profile-summary-card-output/dracula/0-profile-details.svg&#41;]&#40;https://github.com/jumpe1&#41;)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jumpe1)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![](profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/jumpe1)
-[![](profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/jumpe1)
-[![](profile-summary-card-output/dracula/3-stats.svg)](https://github.com/jumpe1)
-[![](profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/jumpe1)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jumpe1&theme=dark)](https://git.io/streak-stats)
+## 🤝 Featured OSS Contributions
 
-## Technical Stack
-[![](https://img.shields.io/badge/-Go-000?style=flat&logo=go)](https://github.com/jumpe1)
-[![](https://img.shields.io/badge/-Python-000?style=flat&logo=python)](https://github.com/jumpe1)
-[![](https://img.shields.io/badge/-PHP-000?style=flat&logo=php)](https://github.com/jumpe1)
-[![](https://img.shields.io/badge/-Django-000?style=flat&logo=django)](https://github.com/jumpe1)
-[![](https://img.shields.io/badge/-AWS-000?style=flat&logo=amazon-aws)](https://github.com/jumpe1)
-[![](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)](https://github.com/jumpe1)
-[![](https://img.shields.io/badge/-Kubernetes-000?style=flat&logo=kubernetes)](https://github.com/jumpe1)
-[![](https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql)](https://github.com/jumpe1)
-[![](https://img.shields.io/badge/-Redis-000?style=flat&logo=redis)](https://github.com/jumpe1)
-[![](https://img.shields.io/badge/-AWS-000?style=flat&logo=amazon-aws)](https://github.com/jumpe1)
-[![](https://img.shields.io/badge/-Terraform-000?style=flat&logo=terraform)](https://github.com/jumpe1)
-[![](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)](https://github.com/jumpe1)
-[![](https://img.shields.io/badge/-GitHub_Actions-000?style=flat&logo=github-actions)](https://github.com/jumpe1)
-[![](https://img.shields.io/badge/-slack-000?style=flat&logo=slack)](https://github.com/jumpe1)
-[![](https://img.shields.io/badge/-Firebase-000?style=flat&logo=firebase)](https://github.com/jumpe1)
+- [argoproj/argo-workflows#14249](https://github.com/argoproj/argo-workflows/pull/14249)
+- [DataDog/datadog-agent#54941](https://github.com/DataDog/datadog-agent/pull/54941)
+- [DataDog/helm-charts#2696](https://github.com/DataDog/helm-charts/pull/2696)
+- [DataDog/documentation#39217](https://github.com/DataDog/documentation/pull/39217)
+- [k8sgpt-ai/k8sgpt#1543](https://github.com/k8sgpt-ai/k8sgpt/pull/1543)
 
-## References
-- https://github.com/ashutosh00710/github-readme-activity-graph
-- https://github.com/DenverCoder1/github-readme-streak-stats
-- https://github.com/vn7n24fzkq/github-profile-summary-cards
-- https://shields.io
+## 📝 Articles & Publications
+
+- **Case Study (Findy Tools)**: [Findy Tools - Argo CD Case Study](https://findy-tools.io/products/argo-cd/379/659)
